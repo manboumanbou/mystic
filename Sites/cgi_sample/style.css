@@ -1,0 +1,21 @@
+body{
+  font-family: Verdana, Helvetica, Arial, sans-serif;
+  background-color: #efefef;
+  color: #666666;
+  font-size: 10pt;
+}
+
+a:link{color:steelblue;}
+a:visited{color:indigo;}
+
+a:hover{
+  background-color:#cccccc;
+  color:white;
+}
+
+a{text-decoration: none;}
+
+p.data{
+  background-color: #ffffff;
+  padding:10px;
+}
